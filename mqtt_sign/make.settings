@@ -1,0 +1,4 @@
+# 编译工具链
+PLATFORM_CC                 	= gcc
+PLATFORM_AR                 	= ar
+
