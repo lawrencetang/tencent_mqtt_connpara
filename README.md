@@ -1,0 +1,2 @@
+# tencent_mqtt_connpara
+腾讯云平台三元组转MQTT连接参数
